@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hey there, I'm Sudeepthi 👩‍💻<br><br>👩‍🎓 CSE undergrad | Web Dev + DSA<br/><br>🚀 Building and learning — one project at a time<br/><br>🌱 Currently exploring MERN stack & UI/UX design<br/>  <br>🤝 Always up for hackathons, collabs, and learning something new!<br/><br>🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/sudeepthi-g-75a973290/)
+![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdzazZrb240ejU4YXBxbmpyZGNnaTMxaThwNDhycHY4MnRqb3dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif)
+
 
 
 ## 🌐 Socials:
